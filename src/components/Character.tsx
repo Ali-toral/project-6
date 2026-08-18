@@ -1,5 +1,5 @@
 import React from 'react';
-
+import sanjibakImg from '../assets/sanjibak.png';
 
 interface CharacterProps {
   mood: 'happy' | 'excited' | 'thinking' | 'encouraging';
